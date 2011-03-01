@@ -1,0 +1,24 @@
+
+Bemerkung:
+  - Material vom Maven-Training kann ich hier verwenden.
+
+Titel:
+  Maven - Workshop
+
+Beschreibung:
+  Ziel ist es im Rahmen des Workshops eine Übersicht über Maven
+  und dessen Wirkungsweise zu bekommen. Das bedeutet, dass
+  die Basis-Konzepe besprochen werden. Dazu gehört auch das 
+  "Convention over Configuration" Paradigma.
+  
+  - Installation
+    - Voraussetzungen: JDK 1.5+ 
+    - Internet Zugang
+
+  Grundlegenden Übersicht über die Basis Konzepte von Maven
+  - "Convention over Configuration"
+
+  - Maven Coordinates
+    GroupId, ArtifactId, Version (GAV)
+  - POM
+ 
