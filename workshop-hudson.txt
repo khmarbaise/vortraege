@@ -1,0 +1,22 @@
+
+Bemerkung:
+
+Titel:
+  Hudson/Jenkins - Workshop
+
+Beschreibung:
+  Ziel ist es eine Übersicht über die Funktionsweise von Hudson/Jenkins
+  zu bekommen. 
+
+  Hier wird speziell auf die Zusammenarbeit mit Maven eingegangen.
+
+  - Einrichtung eines Build Jobs
+    Parameter
+    Environment seitens Jenkins/Hudson
+      - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren?) 
+ 
+   
+   - Abhängigkeiten von Jobs untereinander
+   - HTML Sites (Plugin ?)
+   - Code Coverage (via Plugin)
+   - 
