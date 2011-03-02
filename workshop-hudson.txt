@@ -1,22 +1,35 @@
-
-Bemerkung:
-
 Titel:
-  Hudson/Jenkins - Workshop
+  Jenkins - Workshop
 
 Beschreibung:
-  Ziel ist es eine Übersicht über die Funktionsweise von Hudson/Jenkins
-  zu bekommen. 
+  Ziel ist es eine Übersicht über die Funktionsweise von Jenkins
+  zu bekommen. Dazu wird auf unterschiedliche Fragestellung eingegangen:
+  Wie kann man einen Job konfigurieren und was kann man konfigurieren?
+  Wie kann man die Ausführungszeit bestimmen? Wie kann man abhängigkeiten 
+  zwischen Jobs definieren? Welche Arten von Jobs gib es?
+  Wie kann man Parameter an Jobs übergeben? Weiterhin 
+  werden unterschiedlche Plugins für Jenkins vorgestellt wie zum Beispiel
+  Cobertura, HTML Publisher, PerfPublish, Subversion Plugin. 
+  Wie kann man eine größere Menge von Build Servern installieren und auf dem
+  aktuellen Stand halten?
 
-  Hier wird speziell auf die Zusammenarbeit mit Maven eingegangen.
+  Im Rahmen des Jenkins Workshops liegt ein gewisser Fokus auf 
+  der Verwendung von Maven im Zusammenhang mit Jenkins. Selbstverständlich
+  werden auch andere Bereiche beleuchtet. 
+   
 
   - Einrichtung eines Build Jobs
     Parameter
     Environment seitens Jenkins/Hudson
       - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren?) 
+
+  - Einfacher Job mit Build aus Git heraus ? (SVN Besser ?)
  
    
    - Abhängigkeiten von Jobs untereinander
    - HTML Sites (Plugin ?)
    - Code Coverage (via Plugin)
-   - 
+   - Parametrisierte Builds
+   - Build Matrix
+   - Unit Test Results
+   - Build only changed modules (multimodule build)

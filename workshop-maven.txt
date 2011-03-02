@@ -1,24 +1,50 @@
-
-Bemerkung:
-  - Material vom Maven-Training kann ich hier verwenden.
-
 Titel:
   Maven - Workshop
 
 Beschreibung:
   Ziel ist es im Rahmen des Workshops eine Übersicht über Maven
-  und dessen Wirkungsweise zu bekommen. Das bedeutet, dass
-  die Basis-Konzepe besprochen werden. Dazu gehört auch das 
-  "Convention over Configuration" Paradigma.
-  
-  - Installation
-    - Voraussetzungen: JDK 1.5+ 
-    - Internet Zugang
-
-  Grundlegenden Übersicht über die Basis Konzepte von Maven
-  - "Convention over Configuration"
-
-  - Maven Coordinates
-    GroupId, ArtifactId, Version (GAV)
-  - POM
+  und dessen Wirkungsweise zu bekommen. Das heißt, dass die
+  Basis-Konzepte vorgestellt werden. Dazu zählen beispielsweise
+  Repositories, GroupId, ArtifactId, Version deren Nutzung
+  und Bedeutung. Es werden viele Beispiele Vorgestellt und
+  besprochen, wie ein Build mit Maven aussieht und welche 
+  Funktionen mit Maven abgebildet werden können. 
+  Es wird besprochen wie das Dependency Management funktioniert
+  und wie Artefakte ins Maven Central übernommen werden können.
+  Weiterhin wird vorgestellt wie man einen Build in einem 
+  Kommerziellen Umfeld strukturieren kann und 
+  Unternehmensstandards definieren kann.
  
+  - Inhalte
+
+    - Maven Basics: 
+         Repositories, Lifecycle, 
+         Project Object Model (POM),
+         The Coordinates, 
+         POM Inheritance/aggregation,
+         Archetypes 
+    - Dependencies: 
+         Defining dependencies, 
+         Transitive dependencies, 
+         include/exclude dependencies 
+    - Example Project:
+         Simplest POM, 
+         Packaging, Unit Tests, Resources 
+    - Site generation: 
+         How to generate, 
+         How to deploy, 
+         Documentation, apt, fmt, xdoc, Reports 
+    - Reactor builds: 
+         Multiple Modules, mvn install, Integration Test, Packaging 
+    - Assemblies: 
+         Default assemblies, 
+         Archive types, 
+         Component Descriptors, Creating test-jars 
+    - Release Cycle: What it does, How to use the release cycle, Signing of artifacts within release cycle 
+    - Best Practice, POM's, Modules 
+    - Properties: Why and how to use them, Filterting of resources, Defining and usage of our own properties 
+    - The settings.xml file: Defining servers, Secrects, Deploy server 
+    - Profiles: Settings.xml, Profiles in POM, Activations of profiles, Environment, Compatibility, Refactoring POM's 
+    - Different Plugins: Compiler, Jar, Changes, Assembly, Appassembler, Buildnumber plugin, War, 
+        Cargo, Dependency, Antrun  
+     
