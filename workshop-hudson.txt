@@ -18,18 +18,3 @@ Beschreibung:
   werden auch andere Bereiche beleuchtet. 
    
 
-  - Einrichtung eines Build Jobs
-    Parameter
-    Environment seitens Jenkins/Hudson
-      - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren?) 
-
-  - Einfacher Job mit Build aus Git heraus ? (SVN Besser ?)
- 
-   
-   - Abhängigkeiten von Jobs untereinander
-   - HTML Sites (Plugin ?)
-   - Code Coverage (via Plugin)
-   - Parametrisierte Builds
-   - Build Matrix
-   - Unit Test Results
-   - Build only changed modules (multimodule build)
