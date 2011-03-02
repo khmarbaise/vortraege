@@ -5,14 +5,14 @@ Beschreibung:
   Ziel ist es im Rahmen des Workshops eine Übersicht über Maven
   und dessen Wirkungsweise zu bekommen. Das heißt, dass die
   Basis-Konzepte vorgestellt werden. Dazu zählen beispielsweise
-  Repositories, GroupId, ArtifactId, Version deren Nutzung
-  und Bedeutung. Es werden viele Beispiele Vorgestellt und
+  Repositories, GroupId, ArtifactId, Version, deren Nutzung
+  und Bedeutung. Es werden viele Beispiele vorgestellt und
   besprochen, wie ein Build mit Maven aussieht und welche 
   Funktionen mit Maven abgebildet werden können. 
   Es wird besprochen wie das Dependency Management funktioniert
   und wie Artefakte ins Maven Central übernommen werden können.
   Weiterhin wird vorgestellt wie man einen Build in einem 
-  Kommerziellen Umfeld strukturieren kann und 
+  kommerziellen Umfeld strukturieren und 
   Unternehmensstandards definieren kann.
  
   - Inhalte

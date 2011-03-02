@@ -2,11 +2,11 @@ Titel:
   Jenkins - Workshop
 
 Beschreibung:
-  Ziel ist es eine Übersicht über die Funktionsweise von Jenkins
+  Ziel ist es, eine Übersicht über die Funktionsweise von Jenkins
   zu bekommen. Dazu wird auf unterschiedliche Fragestellung eingegangen:
   Wie kann man einen Job konfigurieren und was kann man konfigurieren?
-  Wie kann man die Ausführungszeit bestimmen? Wie kann man abhängigkeiten 
-  zwischen Jobs definieren? Welche Arten von Jobs gib es?
+  Wie kann man die Ausführungszeit bestimmen? Wie kann man Abhängigkeiten 
+  zwischen Jobs definieren? Welche Arten von Jobs gibt es?
   Wie kann man Parameter an Jobs übergeben? Weiterhin 
   werden unterschiedlche Plugins für Jenkins vorgestellt wie zum Beispiel
   Cobertura, HTML Publisher, PerfPublish, Subversion Plugin. 
