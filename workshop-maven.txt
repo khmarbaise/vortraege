@@ -1,7 +1,33 @@
 Titel:
   Maven - Workshop
 
-Beschreibung:
+Kursbeschreibung: kurze Beschreibung die dem Kunden zwei Fragen beantwortet: Warum ist das Thema interessant? Warum sollte ich genau diesen Kurs besuchen?:
+ 
+Es gibt eine ganze Reihe von Build Werkzeugen im Bereich Java. Stellvertretend seien einmal Ant,
+Gradle, Buildr und selbstverständlich Maven genannt. In der Zwischenzeit zeigt sich aber, dass Maven mehr 
+und mehr an Bedeutung gewinnt und auch in Großen Bereichen der kommerziellen Softwareentwicklung als Werkzeug 
+einzug hält. Das bedeutet für Java Entwickler, Build- und Configuration Manager, dass Maven immer größere 
+Bedeutung erlangt und somit auch entsprechend weit reichende Kenntnisse in diesem Bereich gefordert sind. 
+Der Kurs vermittelt genau das Wissen in Form von Beispielen und selbstverständlich auch die dazugehörigen Theorie, 
+die aus realen Projekten stammen.
+
+Was sollte der Teilnehmer schon wissen bzw. welche Fähigkeiten beherschen, um an dem Kurs teilzunehmen?:
+
+Die Voraussetzung für den Maven Workshop ist vor allem Java Wissen. Das bedeutet, dass hier Wissen im Bereich
+der Programmierung als auch im Bereich des Unit Testings z.B. mithilfe von JUnit oder TestNG voraus gesetzt wird.
+Mit anderen Worten solide Java Kenntnisse. Grundlegendes Wissen im Bereich der Versionskontrolle 
+(Subversion, Git o.ä. ist durchaus Hilfreich).
+
+Trainerbeschreibung: sollte dem Kunden deutlich machen, warum der Trainer für den Kurs der richtige ist:
+
+Karl Heinz Marbaise ist seit ca. 25 Jahren im Bereich der Softwareentwicklung tätig. Seit ca. 20 Jahren beschäftigt 
+er sich mit Versionskontrollsystemen wie mit RCS, CVS, ClearCase und später mit Subversion und Git. 
+Er führt seit Jahren Beratungen und Trainings im Bereich Software Konfigurationsmanagement (Subversion, Branching Strategien, 
+Migrationsberatung), Build Management (Ant, Maven, Hudson/Jenkins) und Entwicklungsprozesse durch. Weiterhin hält 
+er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsprechenden Themengebieten Vorträge.
+
+Ausführliche Beschreibung der Kursagenda. Sollte so ausführlich sein, daß ein interessierter Teilnehmer sich vorab ein genaues Bild der behandelten Themen machen kann:
+
   Ziel ist es im Rahmen des Workshops eine Übersicht über Maven
   und dessen Wirkungsweise zu bekommen. Das heißt, dass die
   Basis-Konzepte vorgestellt werden. Dazu zählen beispielsweise
@@ -14,4 +40,100 @@ Beschreibung:
   Weiterhin wird vorgestellt wie man einen Build in einem 
   kommerziellen Umfeld strukturieren und 
   Unternehmensstandards definieren kann.
- 
+
+
+<ul>
+  <li>Maven Basics:
+    <ul>
+      <li>Repositories, Lifecycle</li>
+      <li>Project Object Model (POM)</li>
+      <li>Die Maven Koordinaten</li>
+      <li>POM Vererbung/Aggregation</li>
+      <li>Archetypes</li>
+    </ul>
+  </li>
+  <li>Dependencies:
+    <ul>
+      <li>Definition von Abhängigkeiten</li>
+      <li>Transitive Abhängigkeiten</li>
+      <li>Ein- bzw. Ausschluss von Abhängigkeiten</li>
+    </ul>
+  </li>
+  <li>Beispiel Projekt
+    <ul>
+      <li>Einfachste POM</li>
+      <li>Paketierung, Unit Tests, Resources</li>
+    </ul>
+  </li>
+  <li>Site generation
+    <ul>
+      <li>Wie eine Web-Site erzeugt wird.</li>
+      <li>Veröffentlichung einer Site (deploy)</li>
+      <li> Dokumentation, apt, fmt, xdoc, Reports</li>
+    </ul>
+  </li>
+  <li>Reactor builds:
+    <ul>
+      <li>Multiple Modules</li>
+      <li>mvn install</li>
+      <li>Integration Test</li>
+      <li>Packaging</li>
+    </ul>
+  </li>
+  <li>Assemblies:
+    <ul>
+      <li>Default assemblies</li>
+      <li>Archive types</li>
+      <li>Component Descriptors</li>
+      <li>Creating test-jars</li>
+    </ul>
+  </li>
+  <li>Release Cycle:
+      <ul>
+        <li>Wie der Release Zyklus arbeitet?</li>
+        <li>Wie der Release Zyklus zu nutzen ist.</li>
+        <li>Signierung von Artefakten während des Release Zykluses.</li>
+      </ul>
+  </li>
+  <li>Best Practice, POM's, Modules
+    <ul>
+      <li>Warum und wie man Properties nutzt. </li>
+      <li>Filterung von Resources. </li>
+      <li>Definition und Nutzung von eigenen Resourcen.</li>
+    </ul>
+  </li>
+  <li>Die settings.xml Datei: 
+      <ul>
+        <li>Definition von Servern</li>
+        <li>Passwörtern</li>
+        <li>Deploy Server</li>
+      </ul>
+   </li>
+   <li>Profile:
+      <ul>
+        <li>settings.xml</li>
+        <li>Profile in POM's</li>
+        <li> Aktivierung von Profilen.</li>
+        <li>Environment, Compatibility, Refactoring POM's
+      </ul>
+    </li>
+    <li>Unterschiedliche Plugins
+      <ul>
+          <li>Compiler, Jar, </li>
+          <li>Changes, Assembly, Appassembler, Buildnumber </li>
+          <li>plugin, War, Cargo, Dependency, Antrun</li>
+      </ul>
+    </li>
+</ul>
+
+
+Wie sollen die Schulungsnotebooks vorinstalliert werden? Mehr dazu hier
+(Dieses Feld wird nicht öffentlich):
+Installiert sein muss ein Java 1.6 JDK (JRE reicht nicht aus!) und wichtig ist ein Internet Zugang. Der Rest wird
+während des Workshops durchgeführt.
+
+Welche Unterlagen können wir den Teilnehmern zur Verfügung stellen? Eigene Skripte die wir ausdrucken? Bücher die wir zukaufen können? 
+(Dieses Feld wird nicht öffentlich)
+- Die Information stelle ich im Rahmen des Kurses mit entsprechenden Beispielen dar.
+- Dazu zählen auch PDF Dokumente die als Quelle dienen (Online Bücher)
+- Ich stelle auch die Vortragsfolien als PDF zur Verfügung

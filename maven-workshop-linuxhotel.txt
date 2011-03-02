@@ -1,0 +1,96 @@
+Ziel ist es im Rahmen des Workshops eine Übersicht über Maven
+und dessen Wirkungsweise zu bekommen. Das heißt, dass die
+Basis-Konzepte vorgestellt werden. Dazu zählen beispielsweise
+Repositories, GroupId, ArtifactId, Version, deren Nutzung
+und Bedeutung. Es werden viele Beispiele vorgestellt und
+besprochen, wie ein Build mit Maven aussieht und welche
+Funktionen mit Maven abgebildet werden können.
+Es wird besprochen wie das Dependency Management funktioniert
+und wie Artefakte ins Maven Central übernommen werden können.
+Weiterhin wird vorgestellt wie man einen Build in einem
+kommerziellen Umfeld strukturieren und
+Unternehmensstandards definieren kann.
+
+<ul>
+  <li>Maven Basics:
+    <ul>
+      <li>Repositories, Lifecycle</li>
+      <li>Project Object Model (POM)</li>
+      <li>The Coordinates</li>
+      <li>POM Inheritance/aggregation</li>
+      <li>Archetypes</li>
+    </ul>
+  </li>
+  <li>Dependencies:
+    <ul>
+      <li>Definition von Abhängigkeiten</li>
+      <li>Transitive Abhängigkeiten</li>
+      <li>Ein- bzw. Ausschluss von Abhängigkeiten</li>
+    </ul>
+  </li>
+  <li>Beispiel Projekt
+    <ul>
+      <li>Einfachste POM</li>
+      <li>Paketierung, Unit Tests, Resources</li>
+    </ul>
+  </li>
+  <li>Site generation
+    <ul>
+      <li>Wie eine Web-Site erzeugt wird.</li>
+      <li>Veröffentlichung einer Site (deploy)</li>
+      <li> Dokumentation, apt, fmt, xdoc, Reports</li>
+    </ul>
+  </li>
+  <li>Reactor builds:
+    <ul>
+      <li>Multiple Modules</li>
+      <li>mvn install</li>
+      <li>Integration Test</li>
+      <li>Packaging</li>
+    </ul>
+  </li>
+  <li>Assemblies:
+    <ul>
+      <li>Default assemblies</li>
+      <li>Archive types</li>
+      <li>Component Descriptors</li>
+      <li>Creating test-jars</li>
+    </ul>
+  </li>
+  <li>Release Cycle:
+      <ul>
+        <li>Wie der Release Zyklus arbeitet?</li>
+        <li>Wie der Release Zyklus zu nutzen ist.</li>
+        <li>Signierung von Artefakten während des Release Zykluses.</li>
+      </ul>
+  </li>
+  <li>Best Practice, POM's, Modules
+    <ul>
+      <li>Warum und wie man Properties nutzt. </li>
+      <li>Filterung von Resources. </li>
+      <li>Definition und Nutzung von eigenen Resourcen.</li>
+    </ul>
+  </li>
+  <li>Die settings.xml Datei: 
+      <ul>
+        <li>Definition von Servern</li>
+        <li>Passwörtern</li>
+        <li>Deploy Server</li>
+      </ul>
+   </li>
+   <li>Profile:
+      <ul>
+        <li>settings.xml</li>
+        <li>Profile in POM's</li>
+        <li> Aktivierung von Profilen.</li>
+        <li>Environment, Compatibility, Refactoring POM's
+      </ul>
+    </li>
+    <li>Unterschiedliche Plugins
+      <ul>
+          <li>Compiler, Jar, </li>
+          <li>Changes, Assembly, Appassembler, Buildnumber </li>
+          <li>plugin, War, Cargo, Dependency, Antrun</li>
+      </ul>
+    </li>
+</ul>
