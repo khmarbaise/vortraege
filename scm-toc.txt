@@ -1,0 +1,22 @@
+Kurz Bio:
+Karl Heinz Marbaise ist seit ca. 25 Jahren im Bereich der Softwareentwicklung tätig. Seit ca. 20 Jahren beschäftigt 
+er sich mit Versionskontrollsystemen wie mit RCS, CVS, ClearCase und später mit Subversion und Git. 
+Er führt seit Jahren Beratungen und Trainings im Bereich Software Konfigurationsmanagement (Subversion, Branching Strategien, 
+Migrationsberatung), Build Management (Ant, Maven, Hudson/Jenkins) und Entwicklungsprozesse durch. Weiterhin hält 
+er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsprechenden Themengebieten Vorträge.
+
+
+- SCM Vortrag auf der JUGF 25. Mai 2011
+ 
+- Was ist Software Configurations Management?
+- Kleine Betrachtung der Historie
+- Ausprägungen 
+  - Versionskontroll Tool
+    CVS, SVN, Git
+- Branching Strategien
+  - Entkopplung Release / Development
+    Entkopplung Deployment / Release
+    Projektplanung
+  - Bug Fix Branches
+  - Feature Branching
+
