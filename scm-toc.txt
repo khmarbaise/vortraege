@@ -16,7 +16,10 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
 
 - Ausprägungen 
   - Versionskontroll Tool
-    CVS, SVN, Git
+    CVS, SVN, Git, Mercurial, Bazaar, Monotone
+    Grundlegende Unterschiede DVCS und CVCS
+    - Decentralized Version Control Systems (DVCS)
+    - Centralized Version Control Systems (CVCS)
 
 - Branching Strategien
   - Entkopplung Release / Development
