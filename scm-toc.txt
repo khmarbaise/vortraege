@@ -9,10 +9,15 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
 - SCM Vortrag auf der JUGF 25. Mai 2011
  
 - Was ist Software Configurations Management?
+  - Management Disziplin
+
 - Kleine Betrachtung der Historie
+  - Warum?
+
 - Ausprägungen 
   - Versionskontroll Tool
     CVS, SVN, Git
+
 - Branching Strategien
   - Entkopplung Release / Development
     Entkopplung Deployment / Release
