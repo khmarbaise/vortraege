@@ -27,4 +27,4 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
     Projektplanung
   - Bug Fix Branches
   - Feature Branching
-
+  - Integrationslinien
