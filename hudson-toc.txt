@@ -2,10 +2,9 @@
   - Einrichtung eines Build Jobs
     Parameter
     Environment seitens Jenkins/Hudson
-      - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren?) 
+      - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren!) 
 
   - Einfacher Job mit Build aus Git heraus ? (SVN Besser ?)
- 
    
    - Abhängigkeiten von Jobs untereinander
    - HTML Sites (Plugin ?)
@@ -14,3 +13,9 @@
    - Build Matrix
    - Unit Test Results
    - Build only changed modules (multimodule build)
+
+- Integrationstest mit Port Nutzung ?
+  Beispiel: Web-App mit Tomcat Nutzung im IT (Cargo Integration Test!)
+    Was ist bei mehrfachem Start des Build?
+    - Crash wg. Nutzung des gleichen Ports (8080)?
+      Lösung: ? Parameter? oder besser automatische Lösung? Aber wie?

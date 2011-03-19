@@ -14,12 +14,24 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
 - Kleine Betrachtung der Historie
   - Warum?
 
+    Nichts ist so stetig wie die Änderung!
+
 - Ausprägungen 
-  - Versionskontroll Tool
-    CVS, SVN, Git, Mercurial, Bazaar, Monotone
+  - Versionskontroll Tools
+    RCS, CVS, SVN, Git, Mercurial, Bazaar, Monotone
     Grundlegende Unterschiede DVCS und CVCS
     - Decentralized Version Control Systems (DVCS)
     - Centralized Version Control Systems (CVCS)
+  - Konzeptionelle Unterschiede
+    2-5 Folien
+
+- Build Systeme
+  - Ant, Maven, Gradle...
+  - Eventuelle Nexus im Zusammenhang mit Maven?
+
+- Continious Integration
+  - Kurzer Überblick was sind CI Systeme
+    Beispiel Hudson/Jenkins.
 
 - Branching Strategien
   - Entkopplung Release / Development
