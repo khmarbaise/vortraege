@@ -40,3 +40,15 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
   - Bug Fix Branches
   - Feature Branching
   - Integrationslinien
+
+Links:
+http://de.wikipedia.org/wiki/Revision_Control_System
+http://wwwipd.ira.uka.de/~tichy/scm/SCMBosch2/sld001.htm
+http://de.wikipedia.org/wiki/Versionsverwaltung
+http://de.wikipedia.org/wiki/Versionsnummer
+
+http://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/
+
+http://sccs.berlios.de/
+http://better-scm.berlios.de/comparison/comparison.html
+
