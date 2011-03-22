@@ -9,31 +9,45 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
 - SCM Vortrag auf der JUGF 25. Mai 2011
  
 - Was ist Software Configurations Management?
-  - Management Disziplin
+  - Management Disziplin?
 
 - Kleine Betrachtung der Historie
   - Warum?
 
     Nichts ist so stetig wie die Änderung!
-    
+
    Zusammenhang
      Versionsmanagement,
      Buildmanagement,
      Releasemanagement
      Deploymentmanagement
 
-- Ausprägungen 
-  - Versionskontroll Tools
-    RCS, CVS, SVN, Git, Mercurial, Bazaar, Monotone
-    Grundlegende Unterschiede DVCS und CVCS
-    - Decentralized Version Control Systems (DVCS)
-    - Centralized Version Control Systems (CVCS) (ClearCase, PVCS ?)
-  - Konzeptionelle Unterschiede
-    2-5 Folien
+- Versionsmanagement
+  - Ausprägungen 
+    - Versionskontroll Tools
+      RCS, CVS, SVN, Git, Mercurial, Bazaar, Monotone
+      Grundlegende Unterschiede DVCS und CVCS
+      - Decentralized Version Control Systems (DVCS) (Git, Mercurial, Bazaar, Monoton?)
+      - Centralized Version Control Systems (CVCS) (CVS, SVN, ClearCase, PVCS, MKS ?)
+    - Konzeptionelle Unterschiede
+      2-5 Folien
+      A fool with a tool is just a fool!
 
-- Build Systeme
-  - Ant, Maven, Gradle...
-  - Eventuelle Nexus im Zusammenhang mit Maven?
+  - Branching Strategien
+    - Entkopplung Release / Development
+      - Release Branch 
+    - Entkopplung Deployment / Release
+    - Projektplanung
+    - Bug Fix Branches
+    - Feature Branching
+    - Integrationslinien
+   3-5 Folien zu Strategien
+
+- Build Managemet
+  - Build Systeme
+    - Ant (Ivy ?), Maven, Gradle, Buildr etc.
+    - Eventuelle Nexus im Zusammenhang mit Maven?
+   - 3-5 Folien Tools (Konzepte- und Gegenüberstellung?)
 
 - Continious Integration
   - Warum überhaupt CI?
@@ -42,16 +56,9 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
   - Kurzer Überblick was sind CI Systeme
     Beispiel Hudson/Jenkins
 
-- Branching Strategien
-  - Entkopplung Release / Development
-    Entkopplung Deployment / Release
-    Projektplanung
-  - Bug Fix Branches
-  - Feature Branching
-  - Integrationslinien
 
  - Continious Deployment
-   - What is CD? 
+   - What is CD?
 
 Links:
 http://de.wikipedia.org/wiki/Revision_Control_System
