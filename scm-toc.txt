@@ -15,13 +15,19 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
   - Warum?
 
     Nichts ist so stetig wie die Änderung!
+    
+   Zusammenhang
+     Versionsmanagement,
+     Buildmanagement,
+     Releasemanagement
+     Deploymentmanagement
 
 - Ausprägungen 
   - Versionskontroll Tools
     RCS, CVS, SVN, Git, Mercurial, Bazaar, Monotone
     Grundlegende Unterschiede DVCS und CVCS
     - Decentralized Version Control Systems (DVCS)
-    - Centralized Version Control Systems (CVCS)
+    - Centralized Version Control Systems (CVCS) (ClearCase, PVCS ?)
   - Konzeptionelle Unterschiede
     2-5 Folien
 
@@ -30,8 +36,11 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
   - Eventuelle Nexus im Zusammenhang mit Maven?
 
 - Continious Integration
+  - Warum überhaupt CI?
+  - Was ist CI überhaupt?
+    - Jeder Build ist ein Release Build!
   - Kurzer Überblick was sind CI Systeme
-    Beispiel Hudson/Jenkins.
+    Beispiel Hudson/Jenkins
 
 - Branching Strategien
   - Entkopplung Release / Development
@@ -40,6 +49,9 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
   - Bug Fix Branches
   - Feature Branching
   - Integrationslinien
+
+ - Continious Deployment
+   - What is CD? 
 
 Links:
 http://de.wikipedia.org/wiki/Revision_Control_System

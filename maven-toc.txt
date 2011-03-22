@@ -30,5 +30,3 @@
     - Profiles: Settings.xml, Profiles in POM, Activations of profiles, Environment, Compatibility, Refactoring POM's 
     - Different Plugins: Compiler, Jar, Changes, Assembly, Appassembler, Buildnumber plugin, War, 
         Cargo, Dependency, Antrun  
-     
-
