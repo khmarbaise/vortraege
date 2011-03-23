@@ -1,0 +1,9 @@
+
+Continious Integration erlangt immer größere Bedeutung da immer schnellere Release Zyklen verlangt werden.
+Das bedeutet aber, dass das Bauen der Releases bzw. der Software im Allgemeinen automatisiert werden muss.
+Genau hier kommt Jenkins/Hudson ins Spiel, um genau solch ein Ziel zu erreichen. Jenkins/Hudson bietet hier eben
+ein System welches genau die Anforderungen wie das Bauen anhand Zeit oder nach jeder Änderung im Versionskontrollsystem
+bietet oder auch ausführliche Langzeitbeobachtungen bietet. Weiterhin gibt es für Jenkins/Hudson eine Vielzahl von
+Plugins die die Unterschiedlichsten Bedürfnisse abdecken.
+
+Submission ID: 11

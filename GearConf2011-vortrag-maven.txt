@@ -1,0 +1,29 @@
+Titel: Maven Build
+
+Der Weisheit letzte Schluss: Maven 2 in der Java Entwicklung
+  
+Abstrakt:
+Die Entwicklung im Bereich Java wird heute immer komplexer. Damit wird der Build Prozess auch immer komplexer 
+und somit muss ein Werkzeug diese Komplexität handhabbar machen. Das ist unter anderem die Aufgabe von Maven. 
+Dazu gehört die Übersetzung von Java Quellen, die Paketierung, der Test und das 
+Deployment.  Der Vortrag gibt eine Einführung in das Maven Konzept, die Möglichkeiten und Probleme die im 
+Zusammenhang mit Maven auftreten.
+
+Detailliert:
+Im Bereich der Java Entwicklung hat sich in der Zwischenzeit Maven 2 als neuer Standard gegenüber dem 
+bisherigen Ant durchgesetzt. Die Gründe dafür liegen klar auf der Hand. Die Erstellung eines Build 
+Prozesses mit Maven gestaltet sich in der Regel einfacher und bietet von Anfang an mehr Möglichkeiten.
+Es ist möglich, die Erstellung eines JAR-Files mit sehr wenig Maven 2 Konfiguration zu bewerkstelligen. 
+In diesem Zusammenhang wird out-of-the-Box ein Unit Test geboten.
+Wichtig ist dabei, dass man sich das Basis Konzept von Maven zu eigen macht: Konvention über Konfiguration. 
+Das bedeutet, dass die Java Projekte in einer bestimmten Art und Weise organisiert sein müssen. Das 
+fängt bei der Verzeichnisstruktur an, geht über den Unit- und Integrationstest, Paketierung und hört beim 
+Deployment auf.
+Der Vortrag stellt die grundlegende Vorgehensweise dar, um einen Build auf Maven aufzubauen. Dazu gehört 
+die Kompilierung der Java Quellen. Der nächste Schritt ist die Integration eines Unit Tests in den Build, 
+wie und wann der abläuft. Danach folgt die Paketierung und wie man spezifische Anforderungen zur Paketierung 
+erfüllen kann. Ein weitere Schritt ist die Implementierung eines Integrationstests und zu guter Letzt das 
+Deployment von entsprechenden Artefakten.
+
+
+Submission ID: 10
