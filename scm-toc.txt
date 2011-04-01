@@ -6,6 +6,15 @@ Migrationsberatung), Build Management (Ant, Maven, Hudson/Jenkins) und Entwicklu
 er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsprechenden Themengebieten Vorträge.
 
 
+Beschreibung:
+
+Im Rahmen des Vortrages sollen die Grundlagen des Software Konfigurationsmanagements (SKM) vorgestellt werden. Es wird 
+geklärt was SKM ist und wo es seine Anwendung findet. Weiterhin wird dargestellt, welcher Zusammenhang zwischen
+Versions-, Release-, Build- und Deployment Managmenet besteht und wie die unterschiedlichen Bereiche in einem Projekt
+aufgestellt sind. Welche Rolle spielen Versionskontrollsystem? Ist der Einsatz von Versionskontrollsystemen überhaupt
+Notwendig? Welche Vor- und Nachteile hat der Einsatz
+von Branching Strategien? Was ist mit so Dingen wie Continious Integration? Warum überhaupt CI?
+
 - SCM Vortrag auf der JUGF 25. Mai 2011
  
 - Was ist Software Configurations Management?
@@ -55,7 +64,7 @@ er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsp
     - Jeder Build ist ein Release Build!
   - Kurzer Überblick was sind CI Systeme
     Beispiel Hudson/Jenkins
-
+    3-5 Folien
 
  - Continious Deployment
    - What is CD?

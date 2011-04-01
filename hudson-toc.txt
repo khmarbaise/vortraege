@@ -19,3 +19,6 @@
     Was ist bei mehrfachem Start des Build?
     - Crash wg. Nutzung des gleichen Ports (8080)?
       Lösung: ? Parameter? oder besser automatische Lösung? Aber wie?
+
+  http://server/jenkins/whoAmI 
+
