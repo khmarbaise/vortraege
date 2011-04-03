@@ -1,19 +1,21 @@
 Kurz Bio:
-Karl Heinz Marbaise ist seit ca. 25 Jahren im Bereich der Softwareentwicklung tätig. Seit ca. 20 Jahren beschäftigt 
-er sich mit Versionskontrollsystemen wie mit RCS, CVS, ClearCase und später mit Subversion und Git. 
-Er führt seit Jahren Beratungen und Trainings im Bereich Software Konfigurationsmanagement (Subversion, Branching Strategien, 
-Migrationsberatung), Build Management (Ant, Maven, Hudson/Jenkins) und Entwicklungsprozesse durch. Weiterhin hält 
-er auf verschiedensten Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsprechenden Themengebieten Vorträge.
-
+Karl Heinz Marbaise ist seit ca. 25 Jahren im Bereich der Softwareentwicklung 
+tätig. Seit ca. 20 Jahren beschäftigt er sich mit Versionskontrollsystemen wie 
+mit RCS, CVS, ClearCase und später mit Subversion und Git. Er führt seit Jahren 
+Beratungen und Trainings im Bereich Software Konfigurationsmanagement (Subversion, 
+Branching Strategien, Migrationsberatung), Build Management (Ant, Maven, 
+Hudson/Jenkins) und Entwicklungsprozesse durch. Weiterhin hält er auf verschiedensten 
+Konferenzen (z.B. Subersion Konferenz, GearConf) zu entsprechenden Themengebieten Vorträge.
 
 Beschreibung:
 
-Im Rahmen des Vortrages sollen die Grundlagen des Software Konfigurationsmanagements (SKM) vorgestellt werden. Es wird 
-geklärt was SKM ist und wo es seine Anwendung findet. Weiterhin wird dargestellt, welcher Zusammenhang zwischen
-Versions-, Release-, Build- und Deployment Managmenet besteht und wie die unterschiedlichen Bereiche in einem Projekt
-aufgestellt sind. Welche Rolle spielen Versionskontrollsystem? Ist der Einsatz von Versionskontrollsystemen überhaupt
-Notwendig? Welche Vor- und Nachteile hat der Einsatz
-von Branching Strategien? Was ist mit so Dingen wie Continious Integration? Warum überhaupt CI?
+Im Rahmen des Vortrages sollen die Grundlagen des Software Konfigurationsmanagements
+(SKM) vorgestellt werden. Es wird geklärt was SKM ist und wo es seine Anwendung 
+findet. Weiterhin wird dargestellt, welcher Zusammenhang zwischen Versions-, 
+Release-, Build- und Deployment Management besteht und wie die unterschiedlichen 
+Bereiche in einem Projekt zusammenarbeiten müssen, um ein erfolgreiches Projekt 
+zu bekommen. Es wird auf Fragestellungen wie z.B. welche Rolle spielen 
+Versionskontrollsystem oder welchen Einfluß hat Continious Integration eingegangen.
 
 - SCM Vortrag auf der JUGF 25. Mai 2011
  
