@@ -1,6 +1,14 @@
+- Installation
+  - Download .war file
+  - start via java -jar jenkins.war
+    or running in a container (Tomcat?)
+
+  - What types of Jobs do we have?
+    - Freestyle, Maven2/3 etc.
 
   - Einrichtung eines Build Jobs
     Parameter
+
     Environment seitens Jenkins/Hudson
       - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren!)
       - Welche Environments gibt es?
