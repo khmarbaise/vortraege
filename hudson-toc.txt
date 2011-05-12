@@ -2,7 +2,8 @@
   - Einrichtung eines Build Jobs
     Parameter
     Environment seitens Jenkins/Hudson
-      - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren!) 
+      - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren!)
+      - Welche Environments gibt es?
 
   - Einfacher Job mit Build aus Git heraus ? (SVN Besser ?)
    
@@ -21,4 +22,17 @@
       Lösung: ? Parameter? oder besser automatische Lösung? Aber wie?
 
   http://server/jenkins/whoAmI 
+
+- Maven 2/3 Builds
+
+  - local repository
+  - validation level
+  - ?
+
+  - Local repository
+  - Beispiel Site erzeugung mit local repositor
+    mit m2extra steps
+     1. mvn install
+    Haupt build
+     2. mvn site
 
