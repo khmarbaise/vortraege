@@ -5,6 +5,12 @@
 
   - What types of Jobs do we have?
     - Freestyle, Maven2/3 etc.
+      Besprechung der unterschiedlichen Job Typen
+      - Freestyle
+      - Maven2/3
+      - Monitor an external Job
+      - Build Multi-configuration project (matrix-build called)
+      - copy
 
   - Einrichtung eines Build Jobs
     Parameter
@@ -22,6 +28,11 @@
    - Build Matrix
    - Unit Test Results
    - Build only changed modules (multimodule build)
+
+
+- Incremental builds with Maven
+  - mvn -pl ...
+
 
 - Integrationstest mit Port Nutzung ?
   Beispiel: Web-App mit Tomcat Nutzung im IT (Cargo Integration Test!)
@@ -44,3 +55,8 @@
     Haupt build
      2. mvn site
 
+- Remote Access to Jenkins
+  - XML  API 
+    - URL/jenkins/api
+    - URL/jenkins/api/xml
+      - creatItem etc.

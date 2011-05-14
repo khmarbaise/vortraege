@@ -56,7 +56,7 @@ Versionskontrollsystem oder welchen Einfluß hat Continious Integration eingegan
 
 - Build Managemet
   - Build Systeme
-    - Ant (Ivy ?), Maven, Gradle, Buildr etc.
+    - Maven, Ant (Ivy ?), Gradle, Buildr etc.
     - Eventuelle Nexus im Zusammenhang mit Maven?
    - 3-5 Folien Tools (Konzepte- und Gegenüberstellung?)
 
