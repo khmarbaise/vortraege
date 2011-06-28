@@ -8,12 +8,13 @@
       Besprechung der unterschiedlichen Job Typen
       - Freestyle
       - Maven2/3
-      - Monitor an external Job
+      - Monitor an external Job (Sinn und Zweck? => Beispiel ?)
       - Build Multi-configuration project (matrix-build called)
       - copy
 
   - Einrichtung eines Build Jobs
     Parameter
+    - Welche Parameter? Wofür?
 
     Environment seitens Jenkins/Hudson
       - Wofür kann man so etwas verwenden? (Profile in Maven aktivieren!)
@@ -30,7 +31,7 @@
    - Build only changed modules (multimodule build)
 
 
-- Incremental builds with Maven
+- Incremental builds with Maven (Jenkins?)
   - mvn -pl ...
 
 
