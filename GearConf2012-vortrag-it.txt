@@ -3,21 +3,17 @@ Titel: Unit und Integration Test mit Maven
 Sub: Unit- und Integrations Tests 
 
 Abstrakt:
-Maven Nutzung ist ja nichts neues mehr. Aber wie steht es denn mit der Unterstützung 
-im Bereich Unit- und Integrations Tests?
+Maven Nutzung ist ja nichts neues mehr aber wie steht es denn mit der Unterstützung 
+im Bereich Unit- und vor allem Integrations Tests?
 
 
 Detailliert:
 
-Im Bereich der Java Entwicklung hat sich in der Zwischenzeit Maven als Standard
-durchgesetzt. 
-Die Problematik ist in der Entwicklung dass auch Tests geschreiben und ausgeführt
-werden müssen. Dabei stellt sich die Frage wie das zu bewerkstelligen ist. 
-Mithilfe von Maven ist die Nutzung und Integration von Unit Tests in den 
-Entwicklungsprozess kein Problem. Aber wie sieht es im Bereich Integrations Tests
-aus? Wie ist hier die Unterstützung? Ist es notwendig ein eigenes Module
-zu erstellen oder kann man Integrationstests auch in ein vorhandenes Module
-integrieren? Welche Möglichkeiten bietet hier Maven?
+Die Problematik in der Entwicklung ist, dass auch Tests geschrieben und ausgeführt
+werden müssen. Wie sieht die Unterstützung von Maven im Bereich Unit- und 
+Integrations Tests aus? Ist es notwendig ein eigenes Modul zu erstellen oder 
+kann man Unit-/Integrationstests auch in ein vorhandenes Modul integrieren? 
+Macht das sinn? Welche Möglichkeiten bietet hier Maven?
 Es kommt auch hin und wieder vor, dass man auf Grund von besonderen Umständen
 ein Maven Plugin entwickeln muss womit sich dann auch dort die Frage nach der 
 Test Unterstützung stellt? Wie kann man Unit- und Integrations Tests 
@@ -25,14 +21,7 @@ für ein Maven Plugin erstellen?
 
 
 Der Vortrag möchte unterschiedlichem Möglichkeiten und "Best-Practices" 
-aufzeigen
-Es ist auch sehr einfach Unit Tests zu integrieren und mithilfe von Maven
-ausführen zu lassen. Aber leider gibt es eben nicht nur Unit Tests sondern 
-auch Integrations-Tests. Dabei stellt sich dann die Frage: Wo legt man die 
-Integration ab? Gleiches Module oder ein seperates Module?
-
-
-
+aufzeigen Unit- und Integrationstests in einen Maven build zu integrieren.
 
 
 Submission ID: 
