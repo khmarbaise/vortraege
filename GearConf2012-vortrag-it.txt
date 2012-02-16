@@ -20,5 +20,14 @@ aufzeigen Unit- und Integrationstests in einen Maven build zu integrieren und
 auszuführen. Dabei geht es um Unit Tests, Wiederverwendung von Unit Tests, 
 Integrationstests beispielsweise für eine Web-Anwendung usw.
 
-
 Submission ID: 
+
+- Toc:
+  - Unit Test
+  - IT's
+    - einfache IT's (gleiches Module)
+    - separates module
+    -  
+ - Web- Anwendung (IT's)
+ - SQL Datenbank befüllen ?
+
