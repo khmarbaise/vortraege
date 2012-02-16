@@ -2,20 +2,20 @@ Titel: Application lifecycle Management mit Maven?
 
 Inhalt:
 
-
 Detailliert:
-
 
 - Einrichten eines Projektes
   - Start.
-- Enwicklung
+- Enwicklung (SNAPSHOT Releases?)
   - Unit- / Integrations Testing
 - How to release an Application? (Release (.. Release Plugin)
   - Release an application?
+- CI (Jenkins ?)
 - How to Deploy an Application
    ? Auslieferung (Hinweise auf: appassembler, rpm, ?)
    ? Installation in dev / test / q&a / prod ? 
    Transfer von Dev => test ? (via Nexus ? oder sonst wie?
+
 - Maintenance Handling
    Branching / etc.
    https://github.com/khmarbaise/maintenance-branch-concept
