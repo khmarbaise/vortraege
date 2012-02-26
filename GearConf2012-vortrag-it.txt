@@ -1,5 +1,6 @@
-Titel: Unit und Integration Test mit Maven
+Titel: Unit und Integration Tests mit Maven
 
+Vortragszeit: 45-50 Minuten.
 
 Abstrakt:
 
@@ -10,10 +11,9 @@ werden müssen. Wie sieht die Unterstützung von Maven im Bereich Unit- und
 Integrations Tests aus? Ist es notwendig ein eigenes Modul zu erstellen oder 
 kann man Unit-/Integrationstests auch in ein vorhandenes Modul integrieren? 
 Welche Möglichkeiten bietet hier Maven?
-Es kommt auch hin und wieder vor, dass man auf Grund von besonderen Umständen
-ein Maven Plugin entwickeln muss womit sich dann auch dort die Frage nach der 
-Test Unterstützung stellt? Wie kann man Unit- und Integrations Tests 
-für ein Maven Plugin erstellen?
+Es kommt auch hin und wieder vor, dass man ein Maven Plugin entwickeln möchte
+womit sich dann auch dort die Frage nach der Test Unterstützung stellt? 
+Wie kann man Unit- und Integrations Tests für ein Maven Plugin erstellen?
 
 Der Vortrag möchte unterschiedlichem Möglichkeiten und "Best-Practices" 
 aufzeigen Unit- und Integrationstests in einen Maven build zu integrieren und
