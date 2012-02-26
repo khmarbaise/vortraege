@@ -6,21 +6,21 @@ Abstrakt:
 
 Detailliert:
 
-Die Problematik in der Entwicklung ist, dass dort Tests geschrieben und ausgeführt
+Die Problematik in der Entwicklung ist, dass Tests geschrieben und ausgeführt
 werden müssen. Wie sieht die Unterstützung von Maven im Bereich Unit- und 
-Integrations Tests aus? Ist es notwendig ein eigenes Modul zu erstellen oder 
+Integrationstests aus? Ist es notwendig ein eigenes Modul zu erstellen oder 
 kann man Unit-/Integrationstests auch in ein vorhandenes Modul integrieren? 
 Welche Möglichkeiten bietet hier Maven?
 Es kommt auch hin und wieder vor, dass man ein Maven Plugin entwickeln möchte
-womit sich dann auch dort die Frage nach der Test Unterstützung stellt? 
-Wie kann man Unit- und Integrations Tests für ein Maven Plugin erstellen?
+womit sich dann die Frage nach der Testunterstützung stellt? 
+Wie kann man Unit- und Integrationtests für ein Maven Plugin erstellen?
 
 Der Vortrag möchte unterschiedlichem Möglichkeiten und "Best-Practices" 
 aufzeigen Unit- und Integrationstests in einen Maven build zu integrieren und
-auszuführen. Dabei geht es um Unit Tests, Wiederverwendung von Unit Tests, 
-Integrationstests beispielsweise für eine Web-Anwendung usw.
+auszuführen. Dabei geht es um Unitests, Wiederverwendung von Unitests, 
+Integrationstests, beispielsweise für eine Web-Anwendung, usw.
 
-Submission ID: 
+Submission ID: 11
 
 - Toc:
   - Unit Test

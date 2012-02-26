@@ -1,27 +1,31 @@
-Titel: The Unknown Creature - Maven - Workshop
+Titel: The Unknown Creature - Maven
 
+Zeitraum: ca. 1,5 h.
 
 Abstrakt:
 
-Im Rahmen des Workshops soll der gesamte Life Cycle einer
-Anwendung beleuchtet werden. Dabei geht es von der Initiierung
-über die Entwicklung, Release Erstellung bis hin zur Wartung. 
+Im Rahmen des Workshops wird der gesamte Life-Cycle einer
+Anwendung beleuchtet. Das geht von der Initiierung
+über die Entwicklung, die Release Erstellung bis hin zur Wartung 
+eines Projektes.
+
 Wie kann hier Maven helfen die unterschiedlichen Lebenszyklen
-zu unterstützten? Wie wird die Entwicklung unterstützt? Wie
-die Zusammenarbeit unterschiedlicher Teilbereichen von Projekten?
+zu unterstützen? Wie wird die Entwicklung unterstützt? Wie 
+kann man Unit- und Integrationstests integrieren? 
+Welche Möglichkeiten bieten Maven Auslieferungen zu erstellen ?
+Wie kann die Zusammenarbeit zwischen unterschiedlichen Projekten durch
+den Einsatz von Maven vereinfacht werden?
 
-Workshop über den gesamten Zyklus der Entwicklung von der Einrichtung, 
-über Unit Test, Integrations-Tests, und Releasen...
-Zusammenarbeit mithilfe von SNAPSHOT Releases..
 
-Submission ID: 
+Submission ID: 10
 
 - Toc:
+  - Archetype Erzeugung
   - Unit Test
+    - einfache UT / mehrfache Nutzung
   - IT's
     - einfache IT's (gleiches Module)
     - separates module
-    -  
  - Web- Anwendung (IT's)
  - SQL Datenbank befüllen ?
 
