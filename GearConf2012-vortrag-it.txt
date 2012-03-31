@@ -31,3 +31,15 @@ Submission ID: 11
  - Web- Anwendung (IT's)
  - SQL Datenbank befüllen ?
 
+
+http://drdobbs.com/architecture-and-design/231600404
+
+=>
+Testing is now universally accepted as being an integral part of software engineering and we have also created an entire ecosystem around it, with tools, frameworks, methodologies, design patterns, and countless articles, books, and forums dedicated to this very topic. If you want to improve at testing your code, there is no shortage of material. 
+
+
+http://java.dzone.com/articles/unit-testing-means-end
+
+
+http://beust.com/weblog/2012/03/25/dependency-injection/
+
