@@ -43,3 +43,6 @@ http://java.dzone.com/articles/unit-testing-means-end
 
 http://beust.com/weblog/2012/03/25/dependency-injection/
 
+Mock Repository Manager Maven Plugin
+http://mojo.codehaus.org/mrm-maven-plugin/index.html
+  => Example:http://mojo.codehaus.org/mrm-maven-plugin/examples/invoker-tests.html
