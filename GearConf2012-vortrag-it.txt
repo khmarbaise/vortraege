@@ -31,3 +31,7 @@ Submission ID: 11
  - Web- Anwendung (IT's)
  - SQL Datenbank befüllen ?
 
+ - Von PDD (Pray Driven Development)
+   to TDD (Test Driven Development).
+
+http://zeroinsertionforce.blogspot.de/2012/04/maven-does-not-suck-but-maven-docs-do.html
