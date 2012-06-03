@@ -1,0 +1,23 @@
+
+Titel: Making Maven more Groovy
+
+
+Abstrakt:
+Groovy gewinnt immer mehr an Bedeutung aber die Frage die man sich stellt:
+Wie kann ich Groovy in Maven getriebene Projekte integrieren?
+Kann ich Unit-/Integrationstests in einem Maven Projekt ohne Probleme
+mit Groovy implementieren oder gar das gesamte Projekt? Oder
+muss man eventuell über ein alternatives Build System nachdenken?
+
+Links:
+
+  http://evgeny-goldin.com/wiki/Maven-plugins -> Vortrag (SlideShare)
+   - Dynamische properties, eigene Plugins in Groovy.
+
+  http://timmoore.github.com/mojo-executor/
+     https://github.com/TimMoore/mojo-executor
+
+- TOC
+   -
+   - Unterschied MVN 2 / MVN 3 
+   
