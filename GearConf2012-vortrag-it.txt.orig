@@ -31,9 +31,12 @@ Submission ID: 11
  - Web- Anwendung (IT's)
  - SQL Datenbank befüllen ?
 
-
+<<<<<<< HEAD
  - Von PDD (Pray Driven Development)
    to TDD (Test Driven Development).
+
+http://zeroinsertionforce.blogspot.de/2012/04/maven-does-not-suck-but-maven-docs-do.html
+=======
 
 http://drdobbs.com/architecture-and-design/231600404
 
@@ -49,3 +52,4 @@ http://beust.com/weblog/2012/03/25/dependency-injection/
 Mock Repository Manager Maven Plugin
 http://mojo.codehaus.org/mrm-maven-plugin/index.html
   => Example:http://mojo.codehaus.org/mrm-maven-plugin/examples/invoker-tests.html
+>>>>>>> f15f7ce7c611ffa0c751af469272e7135fb8c9cf
